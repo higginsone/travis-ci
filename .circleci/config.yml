@@ -33,5 +33,5 @@ jobs:
  #                - node_modules
  #            key: v1-dependencies-{{ checksum "package.json" }}
  
-         # run tests!
-         - run: yarn testSetup Circle CI in Atlassian Bitbucket
+ #        # run tests!
+ #        - run: yarn testSetup Circle CI in Atlassian Bitbucket
